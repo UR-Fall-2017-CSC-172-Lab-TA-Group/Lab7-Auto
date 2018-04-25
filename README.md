@@ -18,5 +18,5 @@ The script will compile the java code and runs the compiled unit with different 
 
 *Note:* If your terminal says permission denied, try changing the permission then run again:
 ```bash
-> chmod 777 autograde.sh
+> chmod +x autograde.sh
 ```
